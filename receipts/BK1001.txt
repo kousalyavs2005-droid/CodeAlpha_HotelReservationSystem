@@ -1,0 +1,27 @@
+============================================
+        GRAND AURORA HOTEL & RESORT
+             BOOKING RECEIPT
+============================================
+Booking ID:        BK1001
+Status:            Confirmed
+Booked on:         08 Oct 2026, 10:12 pm
+
+Guest:             Kousalya V
+Phone:             8123509182
+Email:             kousalyavs@gmail.com
+
+Room:              101 (Standard)
+Check-in:          08 Oct 2026
+Check-out:         09 Oct 2026
+Nights:            1
+Guests:            2
+
+Subtotal:          Rs. 2,500.00
+GST (12%):         Rs. 300.00
+TOTAL:             Rs. 2,800.00
+
+Payment method:    Pay at Hotel (Cash)
+Payment status:    Pay at hotel
+Transaction ID:    TXN77735291947
+============================================
+      Thank you for choosing Grand Aurora
